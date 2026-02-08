@@ -6,7 +6,6 @@ I'm an aspiring entrepreneur and tech enthusiast currently based in India. I'm p
 
 - 🌱 I’m currently learning about **AI Chatbots** and **AI Automation**.
 - 💼 I run a web development agency called **Dinoco Studios** and an AI agency named **Nexobotics**.
-- 🎥 I’m building my personal brand through storytelling motivational videos on my channel **FervionX**.
 - 🤖 I’m also interested in developing AI solutions that help businesses grow.
 
 ## 🛠️ Technologies & Tools
