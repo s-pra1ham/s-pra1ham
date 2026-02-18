@@ -34,8 +34,3 @@ I'm an aspiring entrepreneur and tech enthusiast currently based in India. I'm p
 Feel free to reach out for collaborations, queries, or just a friendly chat!
 
 - Email: s-pratham@outlook.com
-
----
-
-Thanks for visiting my profile! 🌟
-![Visitor Count](https://komarev.com)
