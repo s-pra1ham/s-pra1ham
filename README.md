@@ -24,8 +24,6 @@ I'm an aspiring entrepreneur and tech enthusiast currently based in India. I'm p
 
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=s-pra1ham&show_icons=true&theme=radical" alt="GitHub Stats" width="100%" />
-  <br>
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=s-pra1ham&theme=radical" alt="GitHub Streak" width="100%" />
 </p>
 
